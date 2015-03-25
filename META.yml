@@ -4,12 +4,13 @@ author:
   - 'Smithsonian Astrophysical Observatory'
 build_requires:
   ExtUtils::MakeMaker: '6.36'
+  MooX::Cmd::Tester: '0'
   Test::More: '0'
 configure_requires:
   CPAN::Meta: '0'
   ExtUtils::MakeMaker: '6.36'
 dynamic_config: '0'
-generated_by: 'Module::Install version 1.14, CPAN::Meta::Converter version 2.142060'
+generated_by: 'Module::Install version 1.14, CPAN::Meta::Converter version 2.143240'
 license: unknown
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
@@ -22,7 +23,6 @@ no_index:
     - xt
 requires:
   Import::Into: '0'
-  Module::Runtime: '0'
   Moo: '0'
   Moo::Role: '0'
   MooX::Cmd: '0'
@@ -32,4 +32,4 @@ requires:
 resources:
   license: http://opensource.org/licenses/gpl-3.0.html
   repository: https://bitbucket.org/djerius/moox-cmd-chainedoptions
-version: '0.01'
+version: '0.02'

@@ -2,6 +2,9 @@ Changes
 cpanfile
 inc/Module/CPANfile.pm
 inc/Module/CPANfile/Environment.pm
+inc/Module/CPANfile/Prereq.pm
+inc/Module/CPANfile/Prereqs.pm
+inc/Module/CPANfile/Requirement.pm
 inc/Module/Install.pm
 inc/Module/Install/AuthorTests.pm
 inc/Module/Install/AutoLicense.pm
