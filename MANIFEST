@@ -27,6 +27,7 @@ META.json
 META.yml
 README
 t/chained.t
+t/croak.t
 t/lib/Base.pm
 t/lib/Default.pm
 t/lib/Default/Cmd/first.pm

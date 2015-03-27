@@ -5,6 +5,7 @@ author:
 build_requires:
   ExtUtils::MakeMaker: '6.36'
   MooX::Cmd::Tester: '0'
+  Test::Fatal: '0'
   Test::More: '0'
 configure_requires:
   CPAN::Meta: '0'
@@ -30,6 +31,7 @@ requires:
   Package::Variant: '0'
   Scalar::Util: '0'
 resources:
-  license: http://opensource.org/licenses/gpl-3.0.html
+  bugtracker: https://rt.cpan.org/Public/Dist/Display.html?Name=MooX-Cmd-ChanedOptions
+  license: http://www.gnu.org/licenses/gpl-3.0.html
   repository: https://bitbucket.org/djerius/moox-cmd-chainedoptions
-version: '0.02'
+version: '0.03'

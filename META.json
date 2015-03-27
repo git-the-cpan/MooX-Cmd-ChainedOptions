@@ -60,18 +60,22 @@
       "test" : {
          "requires" : {
             "MooX::Cmd::Tester" : "0",
+            "Test::Fatal" : "0",
             "Test::More" : "0"
          }
       }
    },
    "release_status" : "stable",
    "resources" : {
+      "bugtracker" : {
+         "web" : "https://rt.cpan.org/Public/Dist/Display.html?Name=MooX-Cmd-ChanedOptions"
+      },
       "license" : [
-         "http://opensource.org/licenses/gpl-3.0.html"
+         "http://www.gnu.org/licenses/gpl-3.0.html"
       ],
       "repository" : {
          "url" : "https://bitbucket.org/djerius/moox-cmd-chainedoptions"
       }
    },
-   "version" : "0.02"
+   "version" : "0.03"
 }
