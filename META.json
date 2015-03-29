@@ -51,7 +51,7 @@
             "Import::Into" : "0",
             "Moo" : "1.001",
             "Moo::Role" : "0",
-            "MooX::Cmd" : "0",
+            "MooX::Cmd" : "0.009",
             "MooX::Options" : "0",
             "Package::Variant" : "0",
             "Scalar::Util" : "0"
@@ -77,5 +77,5 @@
          "url" : "https://bitbucket.org/djerius/moox-cmd-chainedoptions"
       }
    },
-   "version" : "0.03_01"
+   "version" : "0.03_02"
 }
